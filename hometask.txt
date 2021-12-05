@@ -1,1 +1,7 @@
 ветка master ничем не отличается от удалённой ветки demo
+12 комитов из которых 6 моих:
+merge boots
+merge buttons
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+add hometask.txt
